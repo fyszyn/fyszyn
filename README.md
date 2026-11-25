@@ -12,6 +12,7 @@ I'm an engineering student interested in:
 
 ### 🛠 Skills I'm Building
 - Python
+- ROS 2
 - CAD (SolidWorks)
 - Sensors & embedded systems
 - Engineering fundamentals
