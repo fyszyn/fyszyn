@@ -18,7 +18,7 @@ I'm an engineering student interested in:
 - Engineering fundamentals
 
 ### 🎯 Goal
-Build real-world engineering systems and document my learning clearly.<!--
+Build real-world engineering systems 
 
 
 
